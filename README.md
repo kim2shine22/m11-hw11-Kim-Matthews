@@ -11,4 +11,7 @@ A single-page personal site built with Bootstrap 5.3.
 - Spacing utilities
 - Cards
 - Buttons
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27a30474a2d49048f982429e723223e0b857b465
